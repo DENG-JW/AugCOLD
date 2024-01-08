@@ -7,7 +7,7 @@ AugCOLD (Augmented Chinese Offensive Language Dataset) is a large-scale unsuperv
 # Citing
 Please kindly cite our paper if this paper and the dataset are helpful.
 ```
-@article{deng2022Augcold
+@article{deng2023Augcold,
 author = {Jiawen Deng  and Zhuang Chen  and Hao Sun  and Zhexin Zhang  and Jincenzi Wu  and Satoshi Nakagawa  and Fuji Ren  and Minlie Huang },
 title = {Enhancing Offensive Language Detection with Data Augmentation and Knowledge Distillation},
 journal = {Research},
